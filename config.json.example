@@ -1,0 +1,7 @@
+{
+	"WebhookPath" : "https://example.com/hooks/your-hook-id",
+	"MensaID" : "106",
+	"MattermostUserName" : "mensa bot",
+	"MattermostChannel" : "mensa-channel",
+	"MattermostIconURL" : ""
+}
